@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Build](https://img.shields.io/badge/Build-Rollup-red?logo=rollup.js&logoColor=white)
 
-> **Versión custom no oficial** - Plantilla minimalista para Screeps con TypeScript, optimizada para desarrollo profesional mediante API + Build Pipeline.
+> **Versión custom no oficial** - Plantilla minimalista para [Screeps](https://screeps.com/) con TypeScript, optimizada para desarrollo profesional mediante API + Build Pipeline.
 
 ## ¿Por qué esta plantilla?
 
